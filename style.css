@@ -828,6 +828,10 @@ blockquote {
   font-weight: 400;
 }
 
+.footer_link:hover {
+  opacity: 0.5;
+}
+
 .footer_link img {
   display: inline-block;
   margin-right: 1rem;
